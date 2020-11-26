@@ -1,0 +1,21 @@
+{
+  "name": "Corpus-docs",
+  "version": "1.0.0",
+  "description": "Documentation of Corpus App",
+  "main": "index.js",
+  "repository": "https://github.com/tintamarre/corpus-docs/",
+  "author": "Martin Erpicum",
+  "license": "GPLv3",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "vuepress": "^1.7.1"
+  },
+  "dependencies": {
+    "glob": "^7.1.6",
+    "vuepress-bar": "^0.3.1"
+  }
+}
