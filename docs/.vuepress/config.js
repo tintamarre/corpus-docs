@@ -13,10 +13,11 @@ module.exports = {
     sidebar: 
     {
       '/documentation/': [
-        'share-corpus', 
         'create-content',
-        'label-content',
         'tag-content',
+        'label-content',
+        'share-corpus', 
+        'faq'
       ],
     },
     repo: 'tintamarre/corpus-docs',

@@ -3,11 +3,8 @@ title: Label content
 lang: en-US
 ---
 
-s
-df
-asdf
-as
-dfa
-sdf
+# What is a label
 
-lorem   
+# Why create label
+
+# How does it works ?

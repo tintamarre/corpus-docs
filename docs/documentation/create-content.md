@@ -1,13 +1,10 @@
 ---
-title: Create content
+title: Create content on Corpus
 lang: en-US
 ---
+# Create content on Corpus
+## Create a Corpus
 
-s
-df
-asdf
-as
-dfa
-sdf
+## Create a document
 
-lorem   
+## Copy & Paste content
