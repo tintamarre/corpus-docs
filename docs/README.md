@@ -4,7 +4,7 @@ heroImage: https://corpus.lltl.be/storage/legaltech_logo.png
 heroText: Documentation of Corpus
 tagline: Corpus is a free open source software developed by University of Liège in Belgium
 actionText: Read our documentation →
-actionLink: ../documentation/
+actionLink: ./documentation/
 features:
 - title: SaaS
   details: 

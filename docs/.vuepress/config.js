@@ -4,7 +4,7 @@ module.exports = {
   plugins: ['@vuepress/last-updated', '@vuepress/back-to-top'],
   title: 'Documentations of Corpus',
   description: '‍',
-  base: '/docs/',
+  base: '/',
   themeConfig: {
     repo: 'tintamarre/corpus-docs',
     repoLabel: 'Help us',
