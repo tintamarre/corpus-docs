@@ -1,3 +1,8 @@
+---
+title: Label content
+lang: en-US
+---
+
 s
 df
 asdf
