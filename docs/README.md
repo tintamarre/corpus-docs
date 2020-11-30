@@ -1,16 +1,16 @@
 ---
 home: true
-heroImage: https://corpus.lltl.be/storage/legaltech_logo.png
+# heroImage: https://i.imgur.com/T717Zqd.png
 heroText: Documentation of Corpus
 tagline: Corpus is a free open source software developed by University of Liège in Belgium for Corpus analysis
 actionText: Read our documentation →
 actionLink: ./documentation/
 features:
-- title: Text analysis
-  details: The main purpose of Corpus is provide a easy solution to analyse documents.
-- title: Tagging system
-  details: 
-- title: Free & OpenSource
-  details: Corpus licensed with GPLv3
+- title: 📝 Text analysis
+  details: The main purpose of Corpus is provide an easy solution to analyse set of documents.
+- title: 🏷️ Tagging system
+  details: Corpus implement a multilevel tagging system.
+- title: ⚖️ Free & OpenSource
+  details: Corpus is licensed with GPLv3 and is an initiative from University of Liège
 footer: 2020-now LegalTech Lab ULiège
 ---
