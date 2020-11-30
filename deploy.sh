@@ -14,7 +14,7 @@ echo 'docs.lltl.be' > CNAME
 
 git init
 git add -A
-git commit -m ':wrench: deploy'
+git commit -m ':wrench: Deploy'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git main

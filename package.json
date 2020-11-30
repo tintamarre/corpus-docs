@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/tintamarre/corpus-docs/",
   "author": "Martin Erpicum",
-  "license": "GPLv3",
+  "license": "GPL-3.0-or-later",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"

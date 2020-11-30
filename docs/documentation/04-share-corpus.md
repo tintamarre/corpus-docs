@@ -2,8 +2,9 @@
 title: Share content
 lang: en-US
 ---
-# Share content on Corpus
-## Roles
+# Share a collection on Corpus
+
+## Different roles
 
 ### Admin & Members
 
