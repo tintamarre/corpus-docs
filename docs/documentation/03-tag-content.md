@@ -1,10 +1,8 @@
 ---
-title: Tag content
+title: Tag your content
 lang: en-US
 ---
 # {{ $page.title }}
-
-# Tag your document
 
 ![](https://i.imgur.com/uKrl8M2.gif)
 

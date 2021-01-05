@@ -1,8 +1,8 @@
 ---
-title: Share content
+title: Share a collection on Corpus
 lang: en-US
 ---
-# Share a collection on Corpus
+# {{ $page.title }}
 
 ## Different roles
 
