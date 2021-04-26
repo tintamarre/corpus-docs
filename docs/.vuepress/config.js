@@ -1,18 +1,20 @@
 // .vuepress/config.js
 
 module.exports = {
-  plugins: ['@vuepress/last-updated', '@vuepress/back-to-top'],
-  title: 'Documentation of Corpus',
-  description: '‍Corpus is a free open source software developed by University of Liège in Belgium',
-  base: '/',
+  title: 'Corpus documentation',
+  description: 'ULiège product',
+  plugins: ['@vuepress/last-updated', '@vuepress/back-to-top', 'mermaidjs'],
   themeConfig: {
+    
     sidebar: 'auto',
     nav: [
+      { text: '🏠', link: '/documentation/' },
       { text: 'Corpus', link: 'https://corpus.lltl.be' },
     ],
     sidebar: 
     {
       '/documentation/': [
+        '00-theoretical-preambule',
         '01-create-content',
         '02-label-content',
         '03-tag-content',

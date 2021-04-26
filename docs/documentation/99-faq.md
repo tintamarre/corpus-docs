@@ -2,7 +2,6 @@
 title: Frequently-asked-questions
 lang: en-US
 ---
-# Frequently-asked-questions
 # {{ $page.title }}
 
 ## Can I edit my document after tagging it?

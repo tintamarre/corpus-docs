@@ -2,10 +2,10 @@
 title: Create document
 lang: en-US
 ---
-# Create document
 # {{ $page.title }}
 
-## Create a collection of documents (a.k.a a Corpus)
+
+## Create a collection of documents
 
 To create new collection of documents: 
 1. Login to your account ;

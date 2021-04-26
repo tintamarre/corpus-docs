@@ -10,7 +10,7 @@ features:
   details: The main purpose of Corpus is provide an easy solution to analyse set of documents.
 - title: 🏷️ Tagging system
   details: Corpus implement a multilevel tagging system.
-- title: ⚖️ Free & OpenSource
+- title: ⚖️ Free, Libre & OpenSource
   details: Corpus is licensed with GPLv3 and is an initiative from University of Liège
 footer: 2020-now LegalTech Lab ULiège
 ---
