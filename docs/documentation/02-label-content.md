@@ -13,6 +13,8 @@ Adding a label to a text helps you to categorize and classify your texts within 
 
 ## How it works
 
+
+
 ![](https://i.imgur.com/r549B69.gif)
 
 ## How to label

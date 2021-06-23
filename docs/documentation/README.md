@@ -25,4 +25,4 @@ graph LR
 
 - Céline Parotte, Spiral ULiège
 - Lisa Pelssers, Cris ULiège
-- Harien Macq, Spiral ULiège
+- Hadrien Macq, Spiral ULiège

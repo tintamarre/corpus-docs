@@ -33,7 +33,7 @@ The easiest way to import content is to copy & paste your document directly into
 Not currently possible. Soon.
 
 ### Import from external source
-#### Import from OpenJustice.be
+#### OpenJustice.be API
 
 Not currently possible. Soon.
 
